@@ -11,16 +11,16 @@ All relevant data used in our paper can be found under the `data` directory. Ann
 
 ## Code 
 
-# Models
+### Models
 
   - The scripts to run the partial input models used in our paper can be run using the scripts at code/bash_scripts.
   - The trained model outputs for each model (indicating whether the biased model solves the example correctly) are under data/predictions.
 
-# Annotator Splits
+### Annotator Splits
 
   - The script to run the annotator splits experiments is at code/bash_scripts/run_race_annot_split.sh.
 
-# Analysis
+### Analysis
 
   - All other analyses presented in our paper can be found in the jupyter notebook at code/analysis.ipynb.
 
